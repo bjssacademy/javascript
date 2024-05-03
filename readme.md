@@ -4,12 +4,18 @@ This guide builds on the [JS fundamentals introduction](https://github.com/bjssa
 
 If not however, you'll find the rest of this section covers getting set up and the basic JavaScript syntax.
 
-- [Functions & Scope](chapter2.md)
-- [Working with Arrays](chapter3.md)
-- [Working with Objects](chapter4.md)
-- [Asynchronous JavaScript](chapter5.md)
-- [Destructuring & Spread/Rest](chapter6.md)
+---
 
+## Chapters
+
+1. [Setting Up & Basics](readme.md#basics-of-javascript-syntax-variables-data-types-operators-and-trycatch)
+2. [Functions & Scope](chapter2.md)
+3. [Working with Arrays](chapter3.md)
+4. [Working with Objects](chapter4.md)
+5. [Asynchronous JavaScript](chapter5.md)
+6. [Destructuring & Spread/Rest](chapter6.md)
+
+---
 
 ## Setting Up
 
@@ -35,6 +41,7 @@ We will use VS Code as our IDE. You can download and install VS Code from [here]
 <!-- TOC -->
 
 - [JavaScript](#javascript)
+    - [Chapters](#chapters)
     - [Setting Up](#setting-up)
         - [Node.js](#nodejs)
         - [VS Code](#vs-code)
