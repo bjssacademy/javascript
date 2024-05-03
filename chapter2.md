@@ -1,21 +1,13 @@
 # Chapter 2 - Functions & Scope
 
-<!-- TOC -->
-
-- [Chapter 2 - Functions & Scope](#chapter-2---functions--scope)
-    - [Introduction to Functions - Defining Functions, Calling Functions, and Function Parameters](#introduction-to-functions---defining-functions-calling-functions-and-function-parameters)
-    - [Function expressions vs. function declarations](#function-expressions-vs-function-declarations)
-       
-    - [Scope and variable hoisting](#scope-and-variable-hoisting)
+- [Introduction to Functions - Defining Functions, Calling Functions, and Function Parameters](#introduction-to-functions---defining-functions-calling-functions-and-function-parameters)
+- [Function expressions vs. function declarations](#function-expressions-vs-function-declarations)
+- [Scope and variable hoisting](#scope-and-variable-hoisting)
+- [Closures and their applications](#closures-and-their-applications)
+- [Arrow functions and their advantages](#arrow-functions-and-their-advantages)
+- [Callback Functions](#callback-functions)
         
-    - [Closures and their applications](#closures-and-their-applications)
-       
-    - [Arrow functions and their advantages](#arrow-functions-and-their-advantages)
-        
-    - [Callback Functions](#callback-functions)
-        
-
-<!-- /TOC -->
+---
 
 ## Introduction to Functions - Defining Functions, Calling Functions, and Function Parameters
 
