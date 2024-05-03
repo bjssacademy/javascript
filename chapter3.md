@@ -2,20 +2,19 @@
 
 <!-- TOC -->
 
-- [Chapter 3 - Working with Arrays](#chapter-3---working-with-arrays)
-    - [Introduction to arrays: creating arrays, accessing elements, and array methods](#introduction-to-arrays-creating-arrays-accessing-elements-and-array-methods)
+- [Introduction to arrays: creating arrays, accessing elements, and array methods](#introduction-to-arrays-creating-arrays-accessing-elements-and-array-methods)
         
-    - [Anonymous Functions](#anonymous-functions)
-    - [Iterating over arrays: for loop, forEach method, map method, and filter method](#iterating-over-arrays-for-loop-foreach-method-map-method-and-filter-method)
+- [Anonymous Functions](#anonymous-functions)
+- [Iterating over arrays: for loop, forEach method, map method, and filter method](#iterating-over-arrays-for-loop-foreach-method-map-method-and-filter-method)
         
-    - [Array methods for manipulation: push, pop, shift, unshift, splice, and slice](#array-methods-for-manipulation-push-pop-shift-unshift-splice-and-slice)
+- [Array methods for manipulation: push, pop, shift, unshift, splice, and slice](#array-methods-for-manipulation-push-pop-shift-unshift-splice-and-slice)
        
-    - [Array methods for searching and sorting: indexOf, find, findIndex, sort, and reverse](#array-methods-for-searching-and-sorting-indexof-find-findindex-sort-and-reverse)
+- [Array methods for searching and sorting: indexOf, find, findIndex, sort, and reverse](#array-methods-for-searching-and-sorting-indexof-find-findindex-sort-and-reverse)
        
-    - [Multidimensional arrays and nested array methods](#multidimensional-arrays-and-nested-array-methods)
+- [Multidimensional arrays and nested array methods](#multidimensional-arrays-and-nested-array-methods)
         
-    - [About Functional Programming](#about-functional-programming)
-    - [The `reduce()` Method](#the-reduce-method)
+- [About Functional Programming](#about-functional-programming)
+- [The `reduce()` Method](#the-reduce-method)
 
 <!-- /TOC -->
 

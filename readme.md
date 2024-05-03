@@ -4,6 +4,13 @@ This guide builds on the [JS fundamentals introduction](https://github.com/bjssa
 
 If not however, you'll find the rest of this section covers getting set up and the basic JavaScript syntax.
 
+- [Functions & Scope](chapter2.md)
+- [Working with Arrays](chapter3.md)
+- [Working with Objects](chapter4.md)
+- [Asynchronous JavaScript](chapter5.md)
+- [Destructuring & Spread/Rest](chapter6.md)
+
+
 ## Setting Up
 
 We are assuming that you have Node installed, but if not follow the instructions below.
