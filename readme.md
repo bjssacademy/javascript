@@ -55,7 +55,7 @@ We will use VS Code as our IDE. You can download and install VS Code from [here]
                 - [Example](#example)
         - [Switch Statements](#switch-statements)
             - [Example](#example)
-        - [Ternary Operator:](#ternary-operator)
+        - [Ternary Operator](#ternary-operator)
             - [Syntax](#syntax)
             - [Example](#example)
     - [Loops - for Loop, while Loop, do-while Loop, and Loop Control Statements](#loops---for-loop-while-loop-do-while-loop-and-loop-control-statements)
@@ -206,7 +206,7 @@ switch (day) {
 }
 ```
 
-### Ternary Operator:
+### Ternary Operator
 
 The ternary operator `(? :)` is a concise way of writing `if...else` statements.
 
