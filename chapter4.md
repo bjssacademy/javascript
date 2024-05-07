@@ -56,17 +56,29 @@ Don't worry if that code doesn't make sense just yet! We're going to go through 
 ---
 <!-- TOC -->
 
-
-- [Introduction to objects: creating objects, accessing properties, and object methods](#introduction-to-objects-creating-objects-accessing-properties-and-object-methods)
-       
-- [Functions vs Methods](#functions-vs-methods)
-- [Object literals vs. object constructors](#object-literals-vs-object-constructors)
-       
-- [Working with object properties: adding, updating, and deleting properties](#working-with-object-properties-adding-updating-and-deleting-properties)
-     
-- [Object-Oriented Programming Concepts: Encapsulation, Inheritance, and Polymorphism](#object-oriented-programming-concepts-encapsulation-inheritance-and-polymorphism)
-        
-- [Object Prototype](#object-prototype)
+- [Chapter 4 - Working with Objects](#chapter-4---working-with-objects)
+    - [Introduction to objects: creating objects, accessing properties, and object methods](#introduction-to-objects-creating-objects-accessing-properties-and-object-methods)
+        - [Creating Objects](#creating-objects)
+            - [Using object literals](#using-object-literals)
+        - [Accessing Properties](#accessing-properties)
+        - [Object Methods](#object-methods)
+    - [Functions vs Methods](#functions-vs-methods)
+    - [Object literals vs. object constructors](#object-literals-vs-object-constructors)
+        - [Object Literals](#object-literals)
+        - [Object Constructors](#object-constructors)
+        - [Which One Do I Use?](#which-one-do-i-use)
+    - [Working with object properties: adding, updating, and deleting properties](#working-with-object-properties-adding-updating-and-deleting-properties)
+        - [Adding Properties](#adding-properties)
+        - [Updating Properties](#updating-properties)
+        - [Deleting Properties](#deleting-properties)
+    - [Object Methods and this Keyword](#object-methods-and-this-keyword)
+        - [this Keyword](#this-keyword)
+    - [Object-Oriented Programming Concepts: Encapsulation, Inheritance, and Polymorphism](#object-oriented-programming-concepts-encapsulation-inheritance-and-polymorphism)
+        - [Encapsulation](#encapsulation)
+        - [Inheritance](#inheritance)
+        - [Polymorphism](#polymorphism)
+    - [Object Prototype](#object-prototype)
+    - [How ES6 Changes Things](#how-es6-changes-things)
 
 <!-- /TOC -->
 ---
@@ -270,6 +282,10 @@ person.greet(); // Output: 'Hello, my name is John and I am 30 years old.'
 The `this` keyword refers to the *current* object, allowing you to access properties and methods within the object's scope. It allows methods to access and operate on the object's own properties.
 
 ## Object-Oriented Programming Concepts: Encapsulation, Inheritance, and Polymorphism
+
+We're now going to move on to more advanced concepts, using OOP, which is another programming paradigm. It focuses on modeling real-world entities as objects that encapsulate data (attributes) and behavior (methods), and it promotes concepts like inheritance, encapsulation, and polymorphism.
+
+The examples here use "vanilla" JavaScript (more function-based) - we'll update to more modern approaches int he next chapter.
 
 ### Encapsulation
 
@@ -646,4 +662,10 @@ This allows us to have a `fallback` or default `sound` method if the subclass do
 
 ---
 
-[Chapter 5 - Asynchronous JavaScript >>](chapter5.md)
+## How ES6 Changes Things
+
+The introduction of [ES6](es6.md) in 2015 changes how we use objects and classes. The above will still work, but now we have a cleaner and more readable way that you will often find in other languages.
+
+---
+
+[Chapter 4.5 - Applying ES6 >>](chapter4.5.md)

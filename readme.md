@@ -12,6 +12,7 @@ If not however, you'll find the rest of this section covers getting set up and t
 2. [Functions & Scope](chapter2.md)
 3. [Working with Arrays](chapter3.md)
 4. [Working with Objects](chapter4.md)
+    1. 4-5.[Using ES6 Classes](chapter4.5md) 
 5. [Asynchronous JavaScript](chapter5.md)
 6. [Destructuring & Spread/Rest](chapter6.md)
 
